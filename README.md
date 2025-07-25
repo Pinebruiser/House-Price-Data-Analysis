@@ -1,5 +1,5 @@
 # House-Price-Data-Analysis
-This a self imporvement project, where i analysed the data used here to draw correlations between columns and drew deductions from the plots/values.
+This a self imporvement project, where i analysed the data used here to draw correlations between columns and drew deductions from the plots/values. NOTE: the file size of the dataset is large (more than 25 mbs) so here is the link download it.(https://www.kaggle.com/competitions/prediction-interval-competition-ii-house-price/data?select=dataset.csv).
 
 -First i checked if there is any relations between sale_number of a house and the average price sold in each one
 -Secondly i checked if there is any relations between the when the house was first listed for sale and the price it was sold for 
